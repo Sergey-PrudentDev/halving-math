@@ -1,0 +1,24 @@
+{
+  "name": "halving-math",
+  "version": "1.0.0",
+  "description": "Zero-dependency arithmetic for Bitcoin's halving schedule: era, block subsidy, blocks until next halving, total issuance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "bitcoin",
+    "halving",
+    "block-reward",
+    "subsidy",
+    "satoshi"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sergey-PrudentDev/halving-math.git"
+  },
+  "homepage": "https://why21million.com/book/halving-schedule/"
+}
+
