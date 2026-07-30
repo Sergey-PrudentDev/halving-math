@@ -56,7 +56,7 @@ free, plain-arithmetic explainer and toolkit for Bitcoin's supply schedule
 (the [21 million cap](https://why21million.com/book/why-21-million/) and
 the [full halving table](https://why21million.com/book/halving-schedule/)).
 This package is the reusable, tested core of that arithmetic, with no
-opinions, no price data, and no dependencies.
+opinions, no price data, and no dependencies. See also [dca-math](https://github.com/Sergey-PrudentDev/dca-math), the companion library for cost-basis tracking and stacking-plan projections from the same site.
 
 ## License
 
