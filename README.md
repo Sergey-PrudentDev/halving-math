@@ -11,9 +11,9 @@ worked-out math, at [why21million.com/book/halving-schedule/](https://why21milli
 ## Install
 
 ```
-npm install halving-math
+Not yet published to npm — clone or copy index.js directly:
+git clone https://github.com/Sergey-PrudentDev/halving-math
 ```
-
 ## Usage
 
 ```js
