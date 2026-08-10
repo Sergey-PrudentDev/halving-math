@@ -11,11 +11,9 @@ worked-out math, at [why21million.com/book/halving-schedule/](https://why21milli
 ## Install
 
 ```
-Not yet published to npm — clone or copy index.js directly:
-git clone https://github.com/Sergey-PrudentDev/halving-math
+npm install halving-math
 ```
 ## Usage
-
 ```js
 const {
   eraForBlock,
